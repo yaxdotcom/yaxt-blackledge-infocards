@@ -1,4 +1,4 @@
-# Subscriber Special: Blackledge Infocards
+# Blackledge Infocards
 
 This is a website built using the [yax.com](https://yax.com/) website builder project. It was designed by the Yax team for Peter Blackledge, the first subscriber to the [Yax Tutorials](https://tutorials.yax.com/).
 
@@ -7,6 +7,10 @@ The website is styled with the [Basic.css](https://vladocar.github.io/Basic.css/
 ## Pages
 
 The website has a home page, about page, and an unlimited number of content pages.
+
+## Editing content
+
+This template doesn't use an on-page editor. Instead, you can edit the files directly on GitHub. Click a filename and look for the "Edit this file" pen icon. After committing your changes (which saves the file), your website will automatically update (if you are editing files created in a repo that was previously deployed to Netlify, Vercel, or Render.com).
 
 ## Markdown files
 
