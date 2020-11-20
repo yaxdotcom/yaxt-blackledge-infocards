@@ -2,7 +2,7 @@ yax_version: 1.0.0
 template_id: yaxt-blackledge-infocards
 template_title: 'Blackledge Infocards'
 category: subscriber_specials
-description: 'An easy website for page content in Markdown and summary cards on the home page.'
+description: 'Page content in Markdown with summary cards on a home page. Developed for Yax supporter Peter Blackledge.'
 template_img: https://assets.yax.com/images/templates/yaxt-blackledge-infocards.png
 author: 'the Yax team'
 author_img: https://assets.yax.com/images/icons/yax.jpg
