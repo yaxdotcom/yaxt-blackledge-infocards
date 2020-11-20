@@ -20,7 +20,7 @@ The home page contains a title which is read from a file named `manifest.json`. 
 
 Edit the `manifest.json` file to change the home page title or the information cards.
 
-### Adding content pages
+## Adding content pages
 
 Add or remove pages from the `manifest.json` list to add or remove cards on the home page. Files for the content pages are in the `content` folder. It contains nine pairs of `.html` and `.md` files. Duplicate an `.html` and `.md` file if you need another content page (be sure to add it to the list in the `manifest.json` file).
 
