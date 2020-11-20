@@ -1,0 +1,40 @@
+yax_version: 1.0.0
+template_id: yaxt-blackledge-infocards
+template_title: 'Blackledge Infocards'
+category: subscriber_specials
+description: 'An easy website for page content in Markdown and summary cards on the home page.'
+template_img: https://assets.yax.com/images/templates/yaxt-blackledge-infocards.png
+author: 'the Yax team'
+author_img: https://assets.yax.com/images/icons/yax.jpg
+files:
+- about.html
+- about.md
+- index.html
+- index-closing.md
+- index-intro.md
+- README.md
+- manifest.json
+- render.yaml
+- assets/styles/site.css
+- assets/scripts/yax-blackledge-cards.js
+- assets/scripts/yax-blackledge-navbar.js
+- assets/scripts/yax-blackledge-title.js
+- assets/scripts/yax-markdown.js
+- content/index.html
+- content/index.md
+- content/2.html
+- content/2.md
+- content/3.html
+- content/3.md
+- content/4.html
+- content/4.md
+- content/5.html
+- content/5.md
+- content/6.html
+- content/6.md
+- content/7.html
+- content/7.md
+- content/8.html
+- content/8.md
+- content/9.html
+- content/9.md

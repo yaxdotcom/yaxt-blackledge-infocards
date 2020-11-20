@@ -1,0 +1,14 @@
+{
+  "title": "Blackledge Information Cards",
+  "pages": [
+    {"url": "/content/index.html", "title": "Article 1", "summary": "Summary of Article 1."},
+    {"url": "/content/2.html", "title": "Article 2", "summary": "Summary of Article 2."},
+    {"url": "/content/3.html", "title": "Article 3", "summary": "Summary of Article 3."}, 
+    {"url": "/content/4.html", "title": "Article 4", "summary": "Summary of Article 4."},
+    {"url": "/content/5.html", "title": "Article 5", "summary": "Summary of Article 5."},
+    {"url": "/content/6.html", "title": "Article 6", "summary": "Summary of Article 6."},
+    {"url": "/content/7.html", "title": "Article 7", "summary": "Summary of Article 7."},
+    {"url": "/content/8.html", "title": "Article 8", "summary": "Summary of Article 8."},
+    {"url": "/content/9.html", "title": "Article 9", "summary": "Summary of Article 9."}
+  ]
+}

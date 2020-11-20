@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Yax Template</title>
+		<meta name="description" content="" />
+		<link rel="stylesheet" href="https://unpkg.com/@vladocar/basic.css@1.0.3/css/basic.css" />
+		<link rel="stylesheet" href="/assets/styles/site.css" />
+		<script type="module" src="/assets/scripts/yax-blackledge-title.js"></script>
+		<script type="module" src="/assets/scripts/yax-blackledge-navbar.js"></script>
+		<script type="module" src="/assets/scripts/yax-blackledge-cards.js"></script>
+		<script type="module" src="/assets/scripts/yax-markdown.js"></script>
+	</head>
+	<body>
+		<yax-blackledge-navbar></yax-blackledge-navbar>
+		<main style="margin: 5%">
+			<header>
+				<h1 id="title"><yax-blackledge-title></yax-blackledge-title></h1>
+			</header>
+			<div id="intro">
+				<yax-markdown theme="okaidia" mdsrc="index-intro.md"></yax-markdown>
+			</div>
+			<yax-blackledge-cards cards_per_row="3"></yax-blackledge-cards>
+			<div id="closing">
+				<yax-markdown theme="okaidia" mdsrc="index-closing.md"></yax-markdown>
+			</div>
+		</main>
+	</body>
+</html>
