@@ -43,6 +43,7 @@ The website uses four HTML custom elements:
 - `<yax-blackledge-navbar>`: navigation
 - `<yax-blackledge-title>`: reads `manifest.json` and displays a title
 - `<yax-markdown>`: reads Markdown files to display content
+- `<yax-blackledge-heading>`: displays title/summary on content pages from `manifest.json` 
 
 ## Cards per row
 
