@@ -17,6 +17,7 @@ files:
 - render.yaml
 - assets/styles/site.css
 - assets/scripts/yax-blackledge-cards.js
+- assets/scripts/yax-blackledge-heading.js
 - assets/scripts/yax-blackledge-navbar.js
 - assets/scripts/yax-blackledge-title.js
 - assets/scripts/yax-markdown.js
