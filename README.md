@@ -38,7 +38,7 @@ Each page has a navbar with links to the home page and about page. The navbar is
 
 ## Custom elements
 
-The website uses four HTML custom elements:
+The website uses five HTML custom elements:
 - `<yax-blackledge-cards>`: reads `manifest.json` and displays cards
 - `<yax-blackledge-navbar>`: navigation
 - `<yax-blackledge-title>`: reads `manifest.json` and displays a title
